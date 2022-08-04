@@ -1,0 +1,14 @@
+body{
+    background-color: chartreuse;
+    margin: 0px;
+}
+h1{
+    height: 100px;
+    background-color: aquamarine;
+    border-style: double;
+    padding-left: 10px;
+}
+nav{
+    width: max-content;
+    background-color: aliceblue;
+}

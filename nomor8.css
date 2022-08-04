@@ -1,0 +1,16 @@
+.menu{
+    background-color: red;
+    margin: 0;
+    position: fixed;
+    width: 39%;
+}
+nav{
+    height: 400px;
+    background-color: gray;
+    width: 40%;
+}
+ul{
+    list-style: none;
+    text-align: center;
+    font-size: 18px;
+}

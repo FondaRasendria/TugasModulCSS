@@ -1,0 +1,25 @@
+.static{
+    position: static;
+    border: 3px solid black;
+    left: 30px;
+}
+.relative{
+    position: relative;
+    border: 3px solid black;
+    left: 30px;
+}
+.fixed{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100px;
+    border: 3px solid black;
+}
+.absolute{
+    position: absolute;
+    right: 0;
+    border: 3px solid black;
+}
+p{
+    font-size: 30px;
+}
